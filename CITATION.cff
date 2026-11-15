@@ -10,6 +10,9 @@ authors:
     given-names: "Mohamed A. A."
     email: maaa82@sustech.edu
     affiliation: "Sudan University of Science and Technology"
+  - family-names: Saleh
+    given-names: "Mushtaq Mahyoob"
+    email: mushtaqbme2022@gmail.com
 type: software
 license: MIT
 repository-code: "https://github.com/maaa82/brats-activation-normalisation"
